@@ -6,7 +6,9 @@ freeslot(
 "SKINCOLOR_DAVE_SKAIAN",
 "SKINCOLOR_GAMZEE_SKAIAN",
 "SKINCOLOR_FEVER",
-"SKINCOLOR_MAIZE"
+"SKINCOLOR_MAIZE",
+"SKINCOLOR_GEARGRAPE",
+"SKINCOLOR_HENHERTZ"
 )
 
 skincolors[SKINCOLOR_NEPTUNO] = {
@@ -75,6 +77,22 @@ skincolors[SKINCOLOR_MAIZE] = {
     name = "Maize",
     ramp = {82,73,74,75,66,66,67,68,105,106,107,108,109,110,111,31},
     invcolor = SKINCOLOR_HANDHELD,
+    invshade = 7,
+    chatcolor = V_YELLOWMAP,
+    accessible = true
+}
+skincolors[SKINCOLOR_GEARGRAPE] = {
+	name = "Geargrape",
+	ramp = {11, 12, 15, 17, 18, 19, 172, 172, 173, 173, 197, 197, 198, 187, 199, 199},
+	invcolor = SKINCOLOR_DUSK,
+	invshade = 7, 
+	chatcolor = V_PURPLEMAP,
+	accessible = true
+}
+skincolors[SKINCOLOR_HENHERTZ] = {
+    name = "Henhertz",
+    ramp = {64, 65, 75, 76, 77, 77, 58, 58, 59, 59, 69, 69, 233, 235, 236, 238},
+    invcolor = SKINCOLOR_TANGERINE,
     invshade = 7,
     chatcolor = V_YELLOWMAP,
     accessible = true
