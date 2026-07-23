@@ -7,12 +7,12 @@
 Self explanatory.
 
 Combi-Rings Lock-On Pack (Several characters, but with Weegee and Miku removed in favor of other mods) - https://mb.srb2.org/addons/combi-rings-lock-on-pack.6780/
-Super Mario Kart Collection (Several characters, modified to remove Weird Mario and Toad's alternate color variants and have the optional Modern Yoshi voice enabled) - https://mb.srb2.org/addons/super-mario-kart-collection.8332/
-Guypack (Several characters) - https://mb.srb2.org/addons/guypack.7277/
-Girlpack (Several characters, modified to remove Aeris and Witch Kiriko) - https://mb.srb2.org/addons/girlpack.6723/
-Star Fox Pack (Several Characters- self explanatory) - https://mb.srb2.org/addons/star-fox-pack-lylat-wing-racers.8641/
-BONUSCHARS (Several Characters, modified to remove Miku in favor of other mod) - https://mb.srb2.org/addons/bonuschars.8102/
-Armstrong, Banjo, Captain Falcon, Crazy Frog, Dracula Flow, Daytona Hornet, K. Rool, Knux Delux, Shrek - https://mb.srb2.org/addons/aarons-char-pack-latest-update-rocketman.6605/
+Super Mario Kart Collection (Several characters, modified to remove Weird Mario and Toad's alternate color variants and have the optional Modern Yoshi voice enabled) - https://mb.srb2.org/addons/super-mario-kart-collection.8332/  
+Guypack (Several characters) - https://mb.srb2.org/addons/guypack.7277/  
+Girlpack (Several characters, modified to remove Aeris and Witch Kiriko) - https://mb.srb2.org/addons/girlpack.6723/  
+Star Fox Pack (Several Characters- self explanatory) - https://mb.srb2.org/addons/star-fox-pack-lylat-wing-racers.8641/  
+BONUSCHARS (Several Characters, modified to remove Miku in favor of other mod) - https://mb.srb2.org/addons/bonuschars.8102/  
+Armstrong, Banjo, Captain Falcon, Crazy Frog, Dracula Flow, Daytona Hornet, K. Rool, Knux Delux, Shrek - https://mb.srb2.org/addons/aarons-char-pack-latest-update-rocketman.6605/  
 Broggy, Lightning McQueen, Midbus, Miku - https://mb.srb2.org/addons/a-r-k-pack.8145/
 Weegee - https://mb.srb2.org/addons/weegee.6901/
 Roaring Knight - https://mb.srb2.org/addons/the-roaring-knight-appeared-ring-racers.8730/
