@@ -6,7 +6,7 @@
 ## Characters
 Self explanatory.
 
-Combi-Rings Lock-On Pack (Several characters, but with Weegee and Miku removed in favor of other mods) - https://mb.srb2.org/addons/combi-rings-lock-on-pack.6780/
+Combi-Rings Lock-On Pack (Several characters, but with Weegee and Miku removed in favor of other mods) - https://mb.srb2.org/addons/combi-rings-lock-on-pack.6780/  
 Super Mario Kart Collection (Several characters, modified to remove Weird Mario and Toad's alternate color variants and have the optional Modern Yoshi voice enabled) - https://mb.srb2.org/addons/super-mario-kart-collection.8332/  
 Guypack (Several characters) - https://mb.srb2.org/addons/guypack.7277/  
 Girlpack (Several characters, modified to remove Aeris and Witch Kiriko) - https://mb.srb2.org/addons/girlpack.6723/  
