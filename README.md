@@ -119,6 +119,6 @@ Soni PAK - https://mb.srb2.org/addons/soni-pak.7432/
 Usually LUA stuff.  
 
 Animated Skin Colors - https://mb.srb2.org/addons/animated-skin-colors.6641/  
-#### I legitimately forgot where I got these oops  
+(I legitimately forgot where I got these.. oops)  
 Hitlist - ???  
 TopSpin - ???  
